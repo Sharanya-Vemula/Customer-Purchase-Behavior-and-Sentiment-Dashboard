@@ -1,4 +1,4 @@
-#📊 Customer Purchase Behavior and Sentiment Analysis
+# 📊 Customer Purchase Behavior and Sentiment Analysis
 This repository hosts a comprehensive end-to-end analytics project that combines structured customer transaction data with unstructured customer review data to analyze purchase behavior and sentiment insights. The goal is to empower businesses with emotionally intelligent, data-driven decisions—aligning with purpose-led strategies like those of Aaruchudar.
 
 🎯 Project Objective
