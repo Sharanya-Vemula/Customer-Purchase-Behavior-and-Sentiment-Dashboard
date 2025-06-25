@@ -98,7 +98,7 @@ The primary objective is to:
 │ ├── Ecommerce Analytics Dashboard.pbix
 ├── README.md
 
-📈 Results and Insights
+## 📈 Results and Insights
 📊 Purchase Trends: Monthly and yearly purchase patterns
 
 👤 Top Customers: High-value customer behavior insights
